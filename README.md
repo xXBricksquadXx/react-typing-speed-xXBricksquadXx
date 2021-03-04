@@ -5,30 +5,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
 
 ## Overview
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+<img width="1506" alt="Screen Shot 2021-03-03 at 8 25 48 PM" src="https://user-images.githubusercontent.com/77302221/109896704-600af400-7c5f-11eb-92bf-20180169d681.png">
 
-### Built With
 
-- [React](https://reactjs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
-## Features
+
+
+
+
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- [Linkedin](https://www.linkedin.com/in/colby-cardell/)
+ - [GitHub](https://github.com/xXBricksquadXx)
+
 
 <!-- TODO: Update author in package.json! -->
