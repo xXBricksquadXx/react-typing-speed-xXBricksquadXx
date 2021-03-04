@@ -12,7 +12,7 @@ function Form({ handler }) {
         placeholder="secs"
         className="text-black w-24"
       />
-      <button className="bg-neon-green cursor-pointer h-16 p-2 rounded-full text-2xl  text-gray-700 w-16 hover:animate-pulse focus:animate-pulse">
+      <button className="bg-red-500 cursor-pointer h-16 p-2 rounded-full text-2xl  text-red-200 w-16 hover:animate-pulse focus:animate-pulse">
         Go!
       </button>
     </form>
