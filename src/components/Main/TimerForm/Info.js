@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 
 function renderContent(remaining, speed) {
   if (remaining) {
-    return <p className="text-2xl">Time Remaining: {remaining}</p>;
+    return <p className="text-2x">Time Remaining: {remaining}</p>;
   }
 
   if (speed) {
