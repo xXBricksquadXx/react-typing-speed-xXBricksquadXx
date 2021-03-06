@@ -9,7 +9,7 @@ module.exports = {
         "neon-green": "#49fb35",
       },
       fontFamily: {
-        mono: ["VT323", ...defaultTheme.fontFamily.mono],
+        mono: ["Monoton", ...defaultTheme.fontFamily.mono],
       },
     },
   },
