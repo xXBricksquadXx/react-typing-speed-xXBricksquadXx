@@ -77,14 +77,14 @@ function Main() {
     <main className="flex flex-col gap-4 items-center mx-auto w-96">
       <Form
         submitHandler={handleTimeStart}
-        label="How Long Should the Test Run?"
+        label="Enter the number of seconds and press 'GO'"
         type="number"
         placeholder="secs"
         buttonTxt="Go!"
       />
       <p className="text-2xl">{WPM ? `${WPM} words/min` : secsRemaining}</p>
       <textarea
-        className="bg-gray-200 h-48 w-96 focus:bg-gray-900"
+        className="bg-gray-900 h-48 w-96 focus:bg-gray-900"
         disabled
         ref={textareaRef}
       />
